@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suthan Raja</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **madras security printers**
+- 🔭 I’m currently working on **National Card Project**
 
 - 🌱 I’m currently learning **React and AWS**
 
