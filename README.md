@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suthan Raja</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **National Card Project**
+- 🔭 I’m currently working on **National Card Project and passport projects**
 
-- 🌱 I’m currently learning **React and AWS**
+- 🌱 I’m currently learning **ReactJs and AWS**
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **suthanraja190@gmail.com**
 
-- 📄 Know about my experiences [1 year madras security printers as a full stack developer](1 year madras security printers as a full stack developer)
+- 📄 Know about my experiences [1 year madras security printers as a full stack developer](1.6 year madras security printers as a full stack developer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
